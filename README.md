@@ -5,7 +5,7 @@ Here it`s my implementation of test task
 ## Installation
 Python 3.11 must be already installed
 ```shell
-git clone 
+git clone https://github.com/Pavilion4ik/test_task.git
 cd test_task
 python3 -m venv venv
 source venv/bin/activate
